@@ -1,0 +1,1 @@
+{"model_name_short": "llama3.1_8b_instruct", "model_name": "meta-llama/Llama-3.1-8B-Instruct", "n_layer_param": "num_hidden_layers", "layer_names": {"embed": ["model.embed_tokens", null], "resid": ["model.layers.{idx}", 0], "mlp": ["model.layers.{idx}.mlp", null], "attn": ["model.layers.{idx}.self_attn", 0]}}

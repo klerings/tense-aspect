@@ -1,0 +1,80 @@
+{"selectivity" : {
+    "llama": {
+        "Tense": {
+            "Add": {"Repetition": 0.09, "Translation": 0.34},
+            "Subtract": {"Repetition": 0.20, "Translation": 0.26},
+            "Subtract Proj": {"Repetition": 0.10, "Translation": 0.34}
+        },
+        "Aspect": {
+            "Add": {"Repetition": 0.18, "Translation": 0.28},
+            "Subtract": {"Repetition": 0.15, "Translation": 0.14},
+            "Subtract Proj": {"Repetition": 0.17, "Translation": 0.25}
+        }
+    },
+    "qwen": {
+        "Tense": {
+            "Add": {"Repetition": 0.33, "Translation": 0.48},
+            "Subtract": {"Repetition": 0.28, "Translation": 0.25},
+            "Subtract Proj": {"Repetition": 0.30, "Translation": 0.39}
+        },
+        "Aspect": {
+            "Add": {"Repetition": 0.16, "Translation": 0.21},
+            "Subtract": {"Repetition": 0.15, "Translation": 0.12},
+            "Subtract Proj": {"Repetition": 0.17, "Translation": 0.19}
+        }
+    }
+},
+
+"topic_shift" : {
+    "llama": {
+        "Tense": {
+            "Add": {"Repetition": 0.32, "Translation": 0.69},
+            "Subtract": {"Repetition": 0.33, "Translation": 0.71},
+            "Subtract Proj": {"Repetition": 0.32, "Translation": 0.67}
+        },
+        "Aspect": {
+            "Add": {"Repetition": 0.50, "Translation": 0.75},
+            "Subtract": {"Repetition": 0.64, "Translation": 0.45},
+            "Subtract Proj": {"Repetition": 0.50, "Translation": 0.56}
+        }
+    },
+    "qwen": {
+        "Tense": {
+            "Add": {"Repetition": 0.74, "Translation": 0.78},
+            "Subtract": {"Repetition": 0.64, "Translation": 0.67},
+            "Subtract Proj": {"Repetition": 0.64, "Translation": 0.78}
+        },
+        "Aspect": {
+            "Add": {"Repetition": 0.35, "Translation": 0.62},
+            "Subtract": {"Repetition": 0.55, "Translation": 0.66},
+            "Subtract Proj": {"Repetition": 0.35, "Translation": 0.62}
+        }
+    }
+},
+
+"degenerate_rate" : {
+    "llama": {
+        "Tense": {
+            "Add": {"Repetition": 0.66, "Translation": 0.16},
+            "Subtract": {"Repetition": 0.43, "Translation": 0.15},
+            "Subtract Proj": {"Repetition": 0.66, "Translation": 0.17}
+        },
+        "Aspect": {
+            "Add": {"Repetition": 0.35, "Translation": 0.22},
+            "Subtract": {"Repetition": 0.16, "Translation": 0.46},
+            "Subtract Proj": {"Repetition": 0.36, "Translation": 0.45}
+        }
+    },
+    "qwen": {
+        "Tense": {
+            "Add": {"Repetition": 0.08, "Translation": 0.06},
+            "Subtract": {"Repetition": 0.21, "Translation": 0.18},
+            "Subtract Proj": {"Repetition": 0.17, "Translation": 0.06}
+        },
+        "Aspect": {
+            "Add": {"Repetition": 0.52, "Translation": 0.75},
+            "Subtract": {"Repetition": 0.37, "Translation": 0.20},
+            "Subtract Proj": {"Repetition": 0.51, "Translation": 0.19}
+        }
+    }
+}}

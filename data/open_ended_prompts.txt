@@ -1,0 +1,83 @@
+Generate a single sentence:
+Generate one sentence:
+Generate a random sentence:
+Generate a sentence using any verb tense:
+Generate an arbitrary sentence:
+Generate one grammatically correct sentence:
+Create a single sentence:
+Create one sentence:
+Create a random sentence:
+Create a sentence using any verb tense:
+Create an arbitrary sentence:
+Create one grammatically correct sentence:
+Produce a single sentence:
+Produce one sentence:
+Produce a random sentence:
+Produce a sentence using any verb tense:
+Produce an arbitrary sentence:
+Produce one grammatically correct sentence:
+Write a single sentence:
+Write one sentence:
+Write a random sentence:
+Write a sentence using any verb tense:
+Write an arbitrary sentence:
+Write one grammatically correct sentence:
+Output a single sentence:
+Output one sentence:
+Output a random sentence:
+Output a sentence using any verb tense:
+Output an arbitrary sentence:
+Output one grammatically correct sentence:
+Provide a single sentence:
+Provide one sentence:
+Provide a sentence using any verb tense:
+Provide an arbitrary sentence:
+Provide one grammatically correct sentence:
+Construct a single sentence:
+Construct one sentence:
+Construct a random sentence:
+Construct a sentence using any verb tense:
+Construct an arbitrary sentence:
+Construct one grammatically correct sentence:
+Make up a single sentence:
+Make up one sentence:
+Make up a random sentence:
+Make up a sentence using any verb tense:
+Make up an arbitrary sentence:
+Make up one grammatically correct sentence:
+Formulate a single sentence:
+Formulate one sentence:
+Formulate a random sentence:
+Formulate a sentence using any verb tense:
+Formulate an arbitrary sentence:
+Formulate one grammatically correct sentence:
+Come up with a single sentence:
+Come up with one sentence:
+Come up with a random sentence:
+Come up with a sentence using any verb tense:
+Come up with an arbitrary sentence:
+Come up with one grammatically correct sentence:
+Print a single sentence:
+Print one sentence:
+Print a random sentence:
+Print a sentence using any verb tense:
+Print an arbitrary sentence:
+Print one grammatically correct sentence:
+Return a single sentence:
+Return one sentence:
+Return a random sentence:
+Return a sentence using any verb tense:
+Return an arbitrary sentence:
+Return one grammatically correct sentence:
+Craft a single sentence:
+Craft one sentence:
+Craft a random sentence:
+Craft a sentence using any verb tense:
+Craft an arbitrary sentence:
+Craft one grammatically correct sentence:
+Give a single sentence:
+Give one sentence:
+Give a random sentence:
+Give a sentence using any verb tense:
+Give an arbitrary sentence:
+Give one grammatically correct sentence:

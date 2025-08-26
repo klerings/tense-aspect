@@ -1,0 +1,99 @@
+{
+    "label_mapper": {
+        "1_2": 0,
+        "1_3": 1,
+        "1_4": 2,
+        "1_5": 3,
+        "0_2": 4,
+        "0_3": 5,
+        "0_4": 6,
+        "0_5": 7,
+        "-1_2": 8,
+        "-1_3": 9,
+        "-1_4": 10,
+        "-1_5": 11
+    },
+    "label_dict_tense": {
+        "-1": "past",
+        "0": "present",
+        "1": "future"
+    },
+    "label_dict_aspect": {
+        "2": "simple",
+        "3": "progressive",
+        "4": "perfect",
+        "5": "perfect_progressive"
+    },
+    "label_dict_full_tense": {
+        "0": "simple_future",
+        "1": "future_progressive",
+        "2": "future_perfect",
+        "3": "future_perfect_progressive",
+        "4": "simple_present",
+        "5": "present_progressive",
+        "6": "present_perfect",
+        "7": "present_perfect_progressive",
+        "8": "simple_past",
+        "9": "past_progressive",
+        "10": "past_perfect",
+        "11": "past_perfect_progressive"
+    },
+    "label_lookup": {
+        "tense": {
+            "future": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "present": [
+                4,
+                5,
+                6,
+                7
+            ],
+            "past": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        "aspect": {
+            "simple": [
+                0,
+                4,
+                8
+            ],
+            "progressive": [
+                1,
+                5,
+                9
+            ],
+            "perfect": [
+                2,
+                6,
+                10
+            ],
+            "perfect_progressive": [
+                3,
+                7,
+                11
+            ]
+        },
+        "full_tense": {
+            "simple_future": 0,
+            "future_progressive": 1,
+            "future_perfect": 2,
+            "future_perfect_progressive": 3,
+            "simple_present": 4,
+            "present_progressive": 5,
+            "present_perfect": 6,
+            "present_perfect_progressive": 7,
+            "simple_past": 8,
+            "past_progressive": 9,
+            "past_perfect": 10,
+            "past_perfect_progressive": 11
+        }
+    }
+}
