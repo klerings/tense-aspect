@@ -4,8 +4,7 @@ This repo contains code for **Steering Language Models in Multi-Token Generation
 
 We explore how LLMs internally encode and control complex grammar features like tense and aspect using linear discriminant analysis and concept steering for causal verification. Our findings reveal structured, human-like representations and highlight key factors for minimizing side effects during controlled generation.
 
-<img src="./figures/qwen2.5_7b_instruct_tenses.png" alt="tense_aspect" width="200"/>
-<img src="./figures/llama3.1_8b_instruct_tense_vs_aspect.png" alt="tense_aspect" width="250"/>
+<img src="./figures/qwen2.5_7b_instruct_tenses.png" alt="tense_aspect" width="200"/> <img src="./figures/llama3.1_8b_instruct_tense_vs_aspect.png" alt="tense_aspect" width="250"/>
 
 
 ## Usage
